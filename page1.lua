@@ -88,7 +88,7 @@ local b2 = widget.newButton
     height = 800,
 	x = 600, 
 	y = 420,
-    defaultFile = "+.png",
+    defaultFile = "plus.png",
 }
 
 local b3 = widget.newButton
@@ -106,7 +106,7 @@ local b4 = widget.newButton
     height = 800,
 	x = 400, 
 	y = 900,
-    defaultFile = "=.png",
+    defaultFile = "equals.png",
 } 	
 
 local b5 = widget.newButton
