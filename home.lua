@@ -20,7 +20,7 @@ function scene:createScene( event )
   	background.x=_W;
 	background.y=_H;
 	background.xScale = 2
-	background.yScale = 2.1
+	background.yScale = 2
 	
 	local logo = display.newImage ("logo.png")
 	logo.xScale = 4

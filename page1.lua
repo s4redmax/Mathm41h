@@ -78,7 +78,7 @@ local b1 = widget.newButton
     width = 600,
     height = 600,
 	x = 350, 
-	y = 500,
+	y = 400,
     defaultFile = "4.png",
 }
 
@@ -87,7 +87,7 @@ local b2 = widget.newButton
     width = 500,
     height = 800,
 	x = 600, 
-	y = 420,
+	y = 350,
     defaultFile = "plus.png",
 }
 
@@ -96,7 +96,7 @@ local b3 = widget.newButton
     width = 600,
     height = 600,
 	x = 950, 
-	y = 500,
+	y = 400,
     defaultFile = "2.png",
 }
 
@@ -105,7 +105,7 @@ local b4 = widget.newButton
     width = 400,
     height = 800,
 	x = 400, 
-	y = 900,
+	y = 700,
     defaultFile = "equals.png",
 } 	
 
@@ -114,7 +114,7 @@ local b5 = widget.newButton
     width = 600,
     height = 750,
 	x = 900, 
-	y = 1000,
+	y = 800,
     defaultFile = "square.png",
 }
 
@@ -133,7 +133,7 @@ local button1 = widget.newButton
 	button1.xScale = 5
 	button1.yScale = 1.2
 	button1.x = 600 
-	button1.y = 1300
+	button1.y = 1100
 	
 local button2 = widget.newButton
 {	
@@ -149,7 +149,7 @@ local button2 = widget.newButton
  	button2.xScale = 5
 	button2.yScale = 1.2
 	button2.x = 600 
-	button2.y = 1600
+	button2.y = 1400
 
 local button3 = widget.newButton
 {
@@ -164,7 +164,7 @@ local button3 = widget.newButton
 	button3.xScale = 5
 	button3.yScale = 1.2
 	button3.x = 600 
-	button3.y = 1900
+	button3.y = 1700
 
 	group:insert( background )
     group:insert( timetext )
